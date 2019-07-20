@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arkiis/monsterz/static/css/main.a5a77cd6.chunk.css",
+    "main.js": "/arkiis/monsterz/static/js/main.c967c0d7.chunk.js",
+    "main.js.map": "/arkiis/monsterz/static/js/main.c967c0d7.chunk.js.map",
+    "runtime~main.js": "/arkiis/monsterz/static/js/runtime~main.7b2f42e4.js",
+    "runtime~main.js.map": "/arkiis/monsterz/static/js/runtime~main.7b2f42e4.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/arkiis/monsterz/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/arkiis/monsterz/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/arkiis/monsterz/index.html",
+    "precache-manifest.8037a73b8075319860e5eac778ee590b.js": "/arkiis/monsterz/precache-manifest.8037a73b8075319860e5eac778ee590b.js",
+    "service-worker.js": "/arkiis/monsterz/service-worker.js",
+    "static/css/main.a5a77cd6.chunk.css.map": "/arkiis/monsterz/static/css/main.a5a77cd6.chunk.css.map"
+  }
+}
